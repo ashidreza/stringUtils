@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# String-Utils App Using React Project
+
+visit webpage here : <a href="https://clever-salmiakki-0bfa55.netlify.app" target="_blank">click here</a>
+
+## About App
+
+Developer : Ashid Reza Suleman.
+Tech Stack: React.Js and Bootstrap
+Description: This Web Application has multiple functionality for text editing according to user with both light and dark mode available.
+
+## Install Package
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

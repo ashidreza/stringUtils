@@ -47,14 +47,14 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar title="TextUtils" about='About Us' mode={mode} togglemode={togglemode} />
+        <Navbar title="StringUtils" about='About Us' mode={mode} togglemode={togglemode} />
         <Alert alert={alert} />
         <Routes>
           <Route exact path="/about" element={<About mode={mode} />} />
           <Route exact path="/contact" element={<Contact mode={mode} />} />
           <Route exact path="/" element={
             <TextForm
-              heading="TextUtis - Word Counter, Character Counter, Remove Extra Space"
+              heading="StringUtils - Word Counter, Character Counter, Remove Extra Space"
               summaryHead="Summery Of Your Text"
               mode={mode}
               showAlert={showAlert}

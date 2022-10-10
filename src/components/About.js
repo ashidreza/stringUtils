@@ -46,7 +46,7 @@ export default function About(props) {
                         </h2>
                         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <strong>Textutils gives you a way to analyze your text quickly and efficently.It let you to count word, count charecters or reading time required.It has both light and dark mode for better compartable.
+                                <strong>Stringutils gives you a way to analyze your text quickly and efficently.It let you to count word, count charecters or reading time required.It has both light and dark mode for better compartable.
                                 </strong>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ export default function About(props) {
                         </h2>
                         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <strong>TextUtils is a free charecter counter tool that provided instant charecter count and word count statics for a given text. TextUtils reports the number of words and charecter. Thus it is suitable for writing text with word / charecter limit.
+                                <strong>StringUtils is a free charecter counter tool that provided instant charecter count and word count statics for a given text. StringUtils reports the number of words and charecter. Thus it is suitable for writing text with word / charecter limit.
                                 </strong>
                             </div>
                         </div>
